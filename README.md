@@ -39,7 +39,7 @@ yarn build
 
 ## Authors
 
-- **Ivan Lori** - _Initial work_ - [ivanlori](https://github.com/ivanlori)
+- **Senior** - _Initial work_ - [ivanlori](https://github.com/ivanlori)
 
 ---
 
